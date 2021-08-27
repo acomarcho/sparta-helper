@@ -1,6 +1,8 @@
 # sparta-helper
 A website used to help participants of SPARTA 2020. Made with React.
 
+You can see the live preview at <a href="https://sparta20.netlify.app/">Netlify</a>.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
